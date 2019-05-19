@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Information</string>
+    <string name="info_string">Информация о Wi-Fi</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="txt_imei1">imei1 %s</string>
+    <string name="txt_imei2">imei1 %s%nimei2 %s</string>
+    <string name="txt_imei3">imei1 %s%nimei2 %s%nimei3 %s</string>
+    <string name="txt_pole">txt_pole</string>
+    <!--<string name="txt_imei2">txt_imei2</string>-->
+    <string name="txt_model">txt_model</string>
+    <string name="txt_ver_android">txt_ver_android</string>
+    <string name="txt_ip">txt_ip</string>
+    <string name="txt_name_operator">txt_name_operator</string>
+    <string name="txt_screen_size">txt_screen_size</string>
+    <string name="txt_battery_capacity">txt_battery_capacity</string>
+    <string name="txt_battery_level">txt_battery_level</string>
+    <string name="btn_info_details">btn_info_details</string>
+    <string name="btn_shell">Shell команда</string>
+    <string name="btn_send_shell_cmd">Отправить</string>
+    <string name="cmd">cmd</string>
+    <!--<string name="phone_type">phone_type</string>-->
+</resources>
